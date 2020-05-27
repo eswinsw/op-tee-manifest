@@ -10,7 +10,7 @@
         <project path="optee_os"             name="OP-TEE/optee_os.git" />
 	<project path="optee_test"           name="OP-TEE/optee_test.git" />
 	-->
-        <project path="build"                name="OP-TEE/build.git">
+        <project path="build"                name="eswinsw/optee-build.git">
                 <linkfile src="qemu_riscv.mk" dest="build/Makefile" />
         </project>
 
